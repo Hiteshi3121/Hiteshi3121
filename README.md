@@ -1,3 +1,19 @@
+<div align="center">
+
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=Hiteshi3121&color=0e75b8&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+  <br><br>
+
+  <!-- GitHub Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hiteshi3121&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" height="180" alt="Hiteshi Aglawe GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiteshi3121&layout=compact&theme=radical&hide=jupyter%20notebook,html,css" height="180" alt="Top Languages" />
+
+</div>
+
+<br>
+
 # 👋 Hi, I'm Hiteshi Aglawe
 
 🚀 **GenAI & Agentic AI Developer** | BTech Computer Science  
