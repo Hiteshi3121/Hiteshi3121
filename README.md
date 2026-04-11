@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hiteshi Aglawe
 
 🚀 **GenAI & Agentic AI Developer** | BTech Computer Science  
-*Building production-ready multi-agent workflows, RAG pipelines, and hallucination-free Agentic AI systems*
+*Building production-ready multi-agent workflows, RAG pipelines, hallucination-free Agentic AI systems or n8n AI Automated workflows*
 
 **Nagpur, Maharashtra, India** • [hiteshiaglawe@gmail.com](mailto:hiteshiaglawe@gmail.com) • [LinkedIn](https://www.linkedin.com/in/hiteshi-aglawe) • [Resume](https://github.com/Hiteshi3121/Hiteshi3121/blob/main/Hiteshi_Aglawe_Resume.pdf)
 
@@ -85,7 +85,6 @@ CGPA: 7.5 | First Class (2016–2020)
 ### 💬 Let's Connect
 
 I’m actively looking for **GenAI / Agentic AI / LLM Engineer** opportunities.  
-Whether it’s building multi-agent systems, RAG pipelines, or multimodal AI products — I’d love to discuss how I can contribute to your team.
+Whether it’s building multi-agent systems, RAG pipelines, multimodal AI products or n8n AI automated workflows — I’d love to discuss how I can contribute to your team.
 
 Feel free to reach out via email or LinkedIn!  
-Happy to share live demos, code walkthroughs, or LangSmith traces from my projects.
