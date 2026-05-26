@@ -38,9 +38,9 @@ Passionate about delivering **hallucination-free, multimodal, and scalable Agent
 [→ E-commerce-Customer-Support-System_2.0](https://github.com/Hiteshi3121/E-commerce-Customer-Support-System_2.0)  
 Production-grade multi-agent system using **LangGraph + FastAPI + Streamlit**. Handles browsing, order placement, shipment tracking, returns, and FAQs across 5 categories with **95%+ intent routing accuracy** (hybrid rule-based + LLM). Built-in guardrails, LangSmith observability, evaluation dashboard, and memory system. **Live demo available**.
 
-**🩺 SafeSpace – AI Medical WhatsApp Assistant**  
-[→ SafeSpace-AI-DoctorBot](https://github.com/Hiteshi3121/SafeSpace-AI-DoctorBot)  
-Multimodal (text + voice + image) WhatsApp medical & mental-health assistant with LLM intent classification, crisis detection, **Twilio voice escalation**, and Google Maps location-aware therapist recommendations.
+**🩺 SafeSpace AI 2.0 – AI-powered Medical & Mental Health Assistant Multi-agent · Multimodal · WhatsApp + Web · Production Deployed**  
+[→ SafeSpace-AI-DoctorBot](https://github.com/Hiteshi3121/SafeSpace-AI-2.0)  Live on - https://huggingface.co/spaces/HiteshiAglawe0505/safespace-ai
+Production multi-agent AI health assistant supporting WhatsApp + Web. 3-agent CrewAI crew ensures crisis detection always runs first. Handles text, voice (Whisper), and medical images (Llama 4 Vision). Therapist search via MCP server + Google Maps. Emergency calls via Twilio. Full LLMOps with LangSmith. Deployed on Hugging Face Spaces with Docker + Nginx.
 
 **🤖 AI Agency Instagram Automation Bot**  
 [→ AI-Agency-Scraper-Engagement-Bot](https://github.com/Hiteshi3121/AI-Agency-Scraper-Engagement-Bot)  
