@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hiteshi Aglawe
 
 🚀 **GenAI & Agentic AI Developer** | BTech Computer Science  
-*Building production-ready multi-agent workflows, RAG pipelines, hallucination-free Agentic AI systems or n8n AI Automated workflows*
+*Building production-ready multi-agent workflows, RAG pipelines, hallucination-free Agentic AI systems.*
 
 **Nagpur, Maharashtra, India** • [hiteshiaglawe@gmail.com](mailto:hiteshiaglawe@gmail.com) • [LinkedIn](https://www.linkedin.com/in/hiteshi-aglawe) • [Resume](https://github.com/Hiteshi3121/Hiteshi3121/blob/main/Hiteshi_Aglawe_Resume.pdf)
 
